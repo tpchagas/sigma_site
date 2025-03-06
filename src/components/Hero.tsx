@@ -41,12 +41,6 @@ const Hero = () => {
             >
               Conheça Nossos Serviços
             </a>
-            <a 
-              href="#contato" 
-              className="border border-white text-white hover:border-sigma-neon hover:text-sigma-neon px-8 py-4 rounded-lg font-medium text-lg transition-all duration-300"
-            >
-              Entre em Contato
-            </a>
           </motion.div>
           
           <motion.div 
