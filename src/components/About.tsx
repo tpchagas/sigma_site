@@ -26,11 +26,10 @@ const About = () => {
               Sobre Nós
             </span>
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-6">
-              Quem Somos e O Que Fazemos
+              Quem Somos
             </h2>
             <p className="text-sigma-muted text-xl max-w-3xl mx-auto">
-              A Sigma Labs é uma empresa pioneira em soluções de Inteligência Artificial para empresas de todos os portes.
-            </p>
+            Na Sigma Labs, ajudamos empresas a automatizar processos, aumentar a eficiência e reduzir custos por meio de soluções de Inteligência Artificial. Nossa equipe de especialistas trabalha com diversas tecnologias para viabilizar a transformação digital em seu negócio.            </p>
           </motion.div>
         </div>
         
