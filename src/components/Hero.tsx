@@ -57,7 +57,7 @@ const Hero = () => {
           >
             <div className="card-rotate-hover relative">
               <video 
-                src="https://sigmalabs.com.br/presentation.mp4"
+                src="https://sigmalabs.com.br/present.mp4"
                 autoPlay
                 loop
                 muted
